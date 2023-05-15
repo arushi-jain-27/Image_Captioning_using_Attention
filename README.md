@@ -7,5 +7,5 @@ The main objective of our project is to develop an image captioning system that 
 - Attention Mechanism: Implementing an attention mechanism that enables our system to adaptively allocate attention to different image regions based on their significance
 - Language Generation: Developing a language model that generates accurate captions describing the images
 - Evaluation:  Assessing the performance (BEAM Search) of our model through BLEU score
-- 
+
 We further test our image captioning model’s robustness against adversarial attacks, which alter input data in small ways to deceive machine learning models and generate misleading captions by performing gradient descent on the image features itself.
